@@ -5,7 +5,7 @@ MatrixSdk:
  - Upgrade to version 0.X.Y.
 
 Features:
- -
+ - Add RTL support (#2376, #2271)
 
 Improvements:
  -
